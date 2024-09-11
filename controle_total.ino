@@ -55,7 +55,7 @@ void loop() {
   }
   else if (temp < temperaturaLimiteHigh && temp > temperaturaLimiteLow){
     digitalWrite(pinoControleCooler, LOW);  // Desliga o cooler
-    digitalWrite(pinoControleLampada, LOW); // Liga a lâmpada
+    digitalWrite(pinoControleLampada, LOW); // Desliga a lâmpada
     Serial.println("Cooler: Desligado");
     Serial.println("Lampada: Desligada");    
   }
