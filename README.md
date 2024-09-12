@@ -38,7 +38,7 @@ O presente trabalho descreve o desenvolvimento do protótipo de uma estufa intel
 
 1. Certifique-se de instalar a IDE do Arduino e conecte a placa ao computador.
 2. Abra os arquivos `.ino` na IDE do Arduino.
-3. Selecione a*placa e a porta corretas em `Ferramentas`.
+3. Selecione a placa e a porta corretas em `Ferramentas`.
 4. Instale bibliotecas adicionais, se necessário.
 5. Verifique e carregue o código para o Arduino.
 
