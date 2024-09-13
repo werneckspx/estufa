@@ -14,10 +14,8 @@
 
 ## 🗂️ Estrutura do Repositório
 
-- `artigo/`: Diretório contendo o artigo do projeto em formato PDF.
 - `source/`: Diretório com os scripts Python e Arduino utilizados no projeto.
 - `imagens/`: Diretório com as imagens utilizadas no artigo e repositório.
-- `apresentacao/`: Diretório com o arquivo da apresentação.
 - **Simulação Online**: A simulação do projeto pode ser acessada através do [Tinkercad](https://www.tinkercad.com/things/6Jpl77eWDa1-estufa-inteligente-versao-final?sharecode=UGfbGy0ObKB1K_vF5VtieTPYHWlyQqe-wF_cfRtBV7w).
 - **Link com vídeos do funcionamento**: [Drive](https://drive.google.com/drive/folders/1yDVJRlRrBxlUZf3HcV9x88ZgsWPCW7VS?usp=sharing)
 ## 📝 Resumo
